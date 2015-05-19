@@ -1,0 +1,2 @@
+git diff HEAD -- readme.txt  和版本库对比
+git diff  -- readme.txt   和暂存区对比 
